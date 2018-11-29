@@ -1,0 +1,22 @@
+# swap
+*.swp
+*~
+
+# python
+*.py[cod]
+
+# java
+*.class
+
+# C++
+[A-Z]
+_.cpp
+*.in
+*.out
+
+# add directory
+![A-Z]/
+
+# doc
+*.docx
+*.doc
